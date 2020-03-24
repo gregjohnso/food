@@ -54,7 +54,7 @@ Optional complementary items:
 - Green onions
 
 1) Wisk the eggs but try to minimize adding air, combine ingredients and run to a fine mesh sieve into another bowl.
-2) Steam (until when? in a double boiler?)
+2) Steam in a double boiler until you can jiggle it. It might take 30 to 45 minutes.
 3) Put on rice and put toppings on top
 
 ## Adult Beverages
