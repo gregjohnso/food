@@ -48,3 +48,4 @@ It's a negroni. It turns out you can swap out most stuff.
 
 1) Mix things together in your glass. Put in a big ice cube. Stir until it's mellowed to your liking. Drink.
 
+Notes: Tequila works well instead of gin. So does whiskey. 
