@@ -1,6 +1,8 @@
 # food
 Recipes for food I like to make
 
+## Basics
+Ingredients to be used for other things. 
 
 ### Awase Dashi
 Japanese sock made with kombu and bonito flakes.  
@@ -22,6 +24,18 @@ Notes:
 3) Add in bonito at a light boil. Remove after a few minutes.
 4) You can keep cooking this down with onions or whatever in it for a stronger flavor. 
 
+### Sourdough culture
+
+
+- Flour
+- Water
+- Large container
+- Cheese cloth
+
+1) Put 1 cup of flour and 1 cup of water in your container and cover lid with cheese cloth
+2) Every day remove 1 cup of material and replace with 1/2 cup of each flour and water
+
+Notes: This will spontaneously ferment. After a week-ish it starts getting super good. Use it for making bread, biscuits, etc. 
 
 ## Adult Beverages
 
