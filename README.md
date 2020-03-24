@@ -37,6 +37,26 @@ Notes:
 
 Notes: This will spontaneously ferment. After a week-ish it starts getting super good. Use it for making bread, biscuits, etc. 
 
+## Dishes
+
+### Chawanmushi
+Japanese egg custard. 
+
+- 1 quart dashi
+- 6-7 eggs
+- 1 tablespoon mirin
+- 1 tablespoon soy sauce
+
+Optional complementary items:
+- Rice
+- Sesame oil
+- Furikaki
+- Green onions
+
+1) Wisk the eggs but try to minimize adding air, combine ingredients and run to a fine mesh sieve into another bowl.
+2) Steam (until when? in a double boiler?)
+3) Put on rice and put toppings on top
+
 ## Adult Beverages
 
 ### Negroni thing
