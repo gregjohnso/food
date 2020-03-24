@@ -2,7 +2,7 @@
 Recipes for food I like to make
 
 
-## Awase Dashi
+### Awase Dashi
 Japanese sock made with kombu and bonito flakes.  
 Used in ramen, liquid for cooking rice, chawanmushi, etc.
 
@@ -22,4 +22,15 @@ Notes:
 3) Add in bonito at a light boil. Remove after a few minutes.
 4) You can keep cooking this down with onions or whatever in it for a stronger flavor. 
 
+
+## Adult Beverages
+
+### Negroni thing
+It's a negroni. It turns out you can swap out most stuff. 
+
+- 1 part campari
+- 1 part sprit (normally gin)
+- 1 part sweet spririt (normally sweet vermouth)
+
+1) Mix things together in your glass. Put in a big ice cube. Stir until it's mellowed to your liking. Drink.
 
